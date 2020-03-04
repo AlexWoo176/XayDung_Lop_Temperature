@@ -20,7 +20,7 @@ function Temperature(temperature, type) {
     };
 }
 
-let converTemperature = temperature => {
+let converTemperature = function(temperature){
     if (temperature < -273) {
         alert("Error: min = -273");
     }else{

@@ -136,8 +136,6 @@
       <change afterPath="$PROJECT_DIR$/../Vong_lap_while/indexBT2.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Vong_lap_while/js/appBT1.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Vong_lap_while/js/appBT2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Js/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Body Mass Index/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Body Mass Index/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Body Mass Index/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Body Mass Index/.idea/workspace.xml" afterDir="false" />
@@ -148,6 +146,7 @@
       <change beforePath="$PROJECT_DIR$/../Game puzzle/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Game puzzle/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Simple Calculator/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Simple Calculator/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TinhSoNgayTrongThang/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TinhSoNgayTrongThang/Index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -189,7 +188,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -236,7 +235,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -268,12 +269,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583304844168</updated>
-      <workItem from="1583304845306" duration="2415000" />
+      <workItem from="1583304845306" duration="3056000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2415000" />
+    <option name="totallyTimeSpent" value="3056000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
